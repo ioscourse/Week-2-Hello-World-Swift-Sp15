@@ -156,6 +156,7 @@
 		3633498C1A6D384D00E83C1E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Rock Valley College";
 				TargetAttributes = {
@@ -405,6 +406,7 @@
 				363349B51A6D384E00E83C1E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		363349B61A6D384E00E83C1E /* Build configuration list for PBXNativeTarget "HelloRVCTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +415,7 @@
 				363349B81A6D384E00E83C1E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
